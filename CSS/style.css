@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: rgb(204, 96, 96);
+    background-color: #99f5e0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,11 +16,9 @@ body {
 
 }
 
-
-
 .container .left_side{
     position: relative;
-    background-color: #263b7e;
+    background-color: #99f5e0;
     padding: 40px;
 }
 
@@ -147,7 +145,7 @@ body {
 
 .container .right_side{
     position: relative;
-    background-color: rgb(235, 155, 8);
+    background-color: #0D50A9;
     padding: 40px;
 }
 
